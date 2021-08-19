@@ -91,10 +91,11 @@ header nav a:hover{
     color: black;
 }
 
-p{
+.texnik{
     font-size: 66px;
     line-height: 73px;  
     color: #fff;
+    margin-top: 50px;
 }
 .contayner1{
     display: flex;
@@ -140,4 +141,38 @@ p{
 }
 .picture{
     margin-top: 94px;
+}
+p{
+    color: #fff;
+    font-size: 20px;
+    line-height: 23px;
+    font-weight: 500px;
+}
+span{
+    color: #00b0e1;
+    font-size: 20px;
+    font-weight: 500px;
+    line-height: 23px;
+}
+b{
+    color: #78b82a;
+    font-size: 25px;
+    font-weight: 500px;
+    line-height: 28px;
+}
+.m1{
+    width: 277px;
+    height: 489px;
+    border: 1px solid #78b82a;
+}
+.m2{
+    width: 240px;
+    margin: 0 auto;
+    
+    
+}
+.contayner22{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
